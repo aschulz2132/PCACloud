@@ -1,0 +1,15 @@
+@import url(https://fonts.bunny.net/css?family=amatic-sc:700);
+
+#box {
+    position: absolute;
+    border: solid 1px black;
+    user-select: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    margin: 0px;
+    padding: 0px;
+    z-index: 0;
+
+}
